@@ -2,3 +2,8 @@ arrays = ["Dani", "Andi", "Anna", "Zanna", "Nikki"]
 puts arrays[2]
 puts arrays[4]
 puts arrays[0]
+
+
+places = ["Japan", "Singapore", "Greece", "Africa", "Scotland"]
+places.pop
+puts places
